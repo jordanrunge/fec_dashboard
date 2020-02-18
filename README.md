@@ -2,7 +2,7 @@
 
 The original data was cleaned up in the python notebook carwash.ipynb 
 
-Additional cleaning and all analysis was performed in map.explore.R
+Additional cleaning and map creation was performed in map.explore.R
 
 The shiny files include ui.R, server.R, and global.R
 
